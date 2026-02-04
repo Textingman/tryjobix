@@ -45,7 +45,7 @@ export default function HomePage() {
             <span className="block text-gray-900">Automate Customer Engagement</span>
           </h1>
           <p className="mt-6 max-w-2xl mx-auto text-xl text-gray-600">
-            Leverage AI to automatically follow up with customers. Turn abandoned interactions into completed conversions with intelligent, AI-driven follow-up campaigns.
+            Leverage AI to automatically follow up with customers. Turn abandoned interactions into completed engagement with intelligent, AI-driven follow-up campaigns.
           </p>
           <div className="mt-10 flex justify-center gap-4">
             <Link
@@ -69,7 +69,7 @@ export default function HomePage() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900">Why Choose Jobix?</h2>
           <p className="mt-4 text-xl text-gray-600">
-            Trusted by businesses to re-engage customers and drive conversions
+            Trusted by businesses to re-engage customers and drive engagement
           </p>
         </div>
 
@@ -172,7 +172,7 @@ export default function HomePage() {
         <div className="bg-gray-900 rounded-2xl shadow-2xl overflow-hidden">
           <div className="px-6 py-16 sm:px-12 sm:py-20 text-center">
             <h2 className="text-4xl font-bold text-white mb-6">
-              Ready to Boost Your Conversions?
+              Ready to Boost Your Engagement?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
               Join businesses that trust Jobix to leverage AI for automated follow-up and drive meaningful conversations.

@@ -53,7 +53,7 @@ export default function AboutPage() {
         <div className="bg-white rounded-xl shadow-lg p-8 md:p-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Mission</h2>
           <p className="text-lg text-gray-600 mb-4">
-            Jobix was created to solve a critical problem: businesses lose customers during the conversion process. We help you automatically re-engage users who abandon forms, forget to complete documents, or go inactive.
+            Jobix was created to solve a critical problem: businesses lose customers during the engagement process. We help you automatically re-engage users who abandon forms, forget to complete documents, or go inactive.
           </p>
           <p className="text-lg text-gray-600 mb-8">
             Traditional follow-up methods like email often go unnoticed. We've built a platform that reaches customers directly on their mobile devices through SMS, driving them back to complete their journey.
@@ -73,7 +73,7 @@ export default function AboutPage() {
 
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Why Choose Us</h2>
           <p className="text-lg text-gray-600 mb-4">
-            We understand that every abandoned interaction represents lost revenue. That's why we've built a platform that automatically reaches out to users at the perfect moment, bringing them back to complete their journey. Our team is dedicated to helping you maximize conversions through intelligent, automated outreach.
+            We understand that every abandoned interaction represents lost revenue. That's why we've built a platform that automatically reaches out to users at the perfect moment, bringing them back to complete their journey. Our team is dedicated to helping you maximize engagement through intelligent, automated outreach.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mb-6 mt-8">Our Address</h2>
@@ -89,7 +89,7 @@ export default function AboutPage() {
         <div className="bg-gray-900 rounded-2xl shadow-2xl overflow-hidden">
           <div className="px-6 py-16 sm:px-12 sm:py-20 text-center">
             <h2 className="text-4xl font-bold text-white mb-6">
-              Ready to Boost Your Conversions?
+              Ready to Boost Your Engagement?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
               Join businesses that trust Jobix to automate customer outreach and drive meaningful conversations.
