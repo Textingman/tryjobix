@@ -45,7 +45,7 @@ export default function HomePage() {
             <span className="block text-gray-900">Automate Customer Engagement</span>
           </h1>
           <p className="mt-6 max-w-2xl mx-auto text-xl text-gray-600">
-            Leverage AI to automatically follow up with leads and customers. Turn abandoned interactions into completed conversions with intelligent, AI-driven follow-up campaigns.
+            Leverage AI to automatically follow up with customers. Turn abandoned interactions into completed conversions with intelligent, AI-driven follow-up campaigns.
           </p>
           <div className="mt-10 flex justify-center gap-4">
             <Link
@@ -132,7 +132,7 @@ export default function HomePage() {
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">AI Calling</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  AI-powered voice agents automatically call leads and customers with natural, human-like conversations. Follow up on inquiries, qualify leads, and schedule appointments 24/7 without human intervention.
+                  AI-powered voice agents automatically call customers with natural, human-like conversations. Follow up on inquiries, answer questions, and schedule appointments 24/7 without human intervention.
                 </p>
               </div>
 
