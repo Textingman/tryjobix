@@ -69,7 +69,13 @@ function VerifyPageContent() {
       <div className="max-w-md w-full bg-white rounded-2xl shadow-xl p-8">
         {/* Logo/Brand */}
         <div className="flex justify-center mb-8">
-          <span className="text-3xl font-bold text-[#d364a4]">Jobix</span>
+          <Image 
+            src="/Jologo.png" 
+            alt="Jobix Logo" 
+            width={150} 
+            height={50}
+            className="h-12 w-auto"
+          />
         </div>
 
         {/* Verification Content */}

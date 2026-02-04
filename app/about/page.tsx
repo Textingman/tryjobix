@@ -10,7 +10,7 @@ export default function AboutPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/" className="flex-shrink-0">
-                <span className="text-2xl font-bold text-gray-900">Jobix</span>
+                <Image src="/Jologo.png" alt="Jobix Logo" width={120} height={40} className="h-10 w-auto" />
               </Link>
             </div>
             <div className="hidden md:block">
