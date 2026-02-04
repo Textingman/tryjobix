@@ -45,7 +45,7 @@ export default function SignupPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/" className="flex-shrink-0">
-                <span className="text-2xl font-bold text-gray-900">LendPlan</span>
+                <span className="text-2xl font-bold text-gray-900">Jobix</span>
               </Link>
             </div>
             <div className="hidden md:block">
@@ -76,7 +76,7 @@ export default function SignupPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-extrabold text-gray-900 mb-4">
-              Get Started with LendPlan
+              Get Started with Jobix
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Fill out the form below and we'll get back to you within 24 hours to set up your automated outreach campaigns.
@@ -109,7 +109,7 @@ export default function SignupPage() {
           ) : (
             <>
               <div className="mb-8">
-                <h2 className="text-2xl font-bold text-gray-900 mb-2">Sign Up for LendPlan</h2>
+                <h2 className="text-2xl font-bold text-gray-900 mb-2">Sign Up for Jobix</h2>
                 <p className="text-gray-600">
                   Complete the form below to start automating your customer outreach and driving conversions.
                 </p>
@@ -215,7 +215,7 @@ export default function SignupPage() {
                     value={formData.message}
                     onChange={handleChange}
                     className="block w-full px-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#d364a4] focus:border-transparent"
-                    placeholder="How do you plan to use LendPlan?"
+                    placeholder="How do you plan to use Jobix?"
                   />
                 </div>
 
@@ -230,7 +230,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-gray-900 focus:ring-gray-900 border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="sms-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated SMS messages from LendPlan. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@trylendplan.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated SMS messages from Jobix. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@tryjobix.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -244,7 +244,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-gray-900 focus:ring-gray-900 border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="call-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated customer care calls from LendPlan. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@trylendplan.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated customer care calls from Jobix. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@tryjobix.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -260,7 +260,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-gray-900 focus:ring-gray-900 border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="account-notifications" className="ml-3 text-sm leading-relaxed text-gray-700">
-                        By checking this box, you consent to receive account notifications, service updates, and important information about your LendPlan account via email and SMS. You may opt-out at any time by contacting support@trylendplan.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you consent to receive account notifications, service updates, and important information about your Jobix account via email and SMS. You may opt-out at any time by contacting support@tryjobix.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -325,7 +325,7 @@ export default function SignupPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">LendPlan</h3>
+              <h3 className="text-xl font-bold mb-4">Jobix</h3>
               <p className="text-gray-400">
                 Automated customer outreach that drives results.
               </p>
@@ -363,17 +363,17 @@ export default function SignupPage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@trylendplan.com
+                support@tryjobix.com
               </p>
               <p className="text-gray-400 mt-4">
-                6 Themistokli Dervi<br />
-                Flat/Office 4D<br />
-                1066 Nicosia, Cyprus
+                6 Eu Tong Sen Street<br />
+                #10-15<br />
+                Singapore 059817
               </p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 LendPlan. All rights reserved.</p>
+            <p>&copy; 2025 Jobix. All rights reserved.</p>
           </div>
         </div>
       </footer>

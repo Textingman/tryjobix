@@ -11,7 +11,7 @@ export default function HomePage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/" className="flex-shrink-0">
-                <span className="text-2xl font-bold text-gray-900">LendPlan</span>
+                <span className="text-2xl font-bold text-gray-900">Jobix</span>
               </Link>
             </div>
             <div className="hidden md:block">
@@ -41,11 +41,11 @@ export default function HomePage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center">
           <h1 className="text-5xl font-extrabold text-gray-900 sm:text-6xl md:text-7xl">
-            Automate Customer Outreach
-            <span className="block text-gray-900">Drive Meaningful Conversations</span>
+            AI-Powered Follow-Up
+            <span className="block text-gray-900">Automate Customer Engagement</span>
           </h1>
           <p className="mt-6 max-w-2xl mx-auto text-xl text-gray-600">
-            Follow up with users automatically through SMS and drive engagement. Turn abandoned interactions into completed conversions with intelligent, automated outreach.
+            Leverage AI to automatically follow up with leads and customers. Turn abandoned interactions into completed conversions with intelligent, AI-driven follow-up campaigns.
           </p>
           <div className="mt-10 flex justify-center gap-4">
             <Link
@@ -67,7 +67,7 @@ export default function HomePage() {
       {/* Features Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900">Why Choose LendPlan?</h2>
+          <h2 className="text-4xl font-bold text-gray-900">Why Choose Jobix?</h2>
           <p className="mt-4 text-xl text-gray-600">
             Trusted by businesses to re-engage customers and drive conversions
           </p>
@@ -80,10 +80,10 @@ export default function HomePage() {
               <CheckCircle className="w-12 h-12 text-gray-900" />
             </div>
             <h3 className="text-xl font-semibold text-gray-900 text-center mb-3">
-              Automated Follow-Ups
+              AI-Powered Follow-Ups
             </h3>
             <p className="text-gray-600 text-center">
-              Automatically reach out to users who haven't completed their journey, bringing them back to finish what they started.
+              AI automatically reaches out to users who haven't completed their journey, bringing them back with personalized follow-up messages.
             </p>
           </div>
 
@@ -93,10 +93,10 @@ export default function HomePage() {
               <Zap className="w-12 h-12 text-gray-900" />
             </div>
             <h3 className="text-xl font-semibold text-gray-900 text-center mb-3">
-              Intelligent Timing
+              AI-Optimized Timing
             </h3>
             <p className="text-gray-600 text-center">
-              Send messages at the perfect moment to maximize engagement and response rates with smart scheduling.
+              AI determines the perfect moment to send messages, maximizing engagement and response rates with intelligent scheduling.
             </p>
           </div>
 
@@ -106,10 +106,10 @@ export default function HomePage() {
               <Users className="w-12 h-12 text-gray-900" />
             </div>
             <h3 className="text-xl font-semibold text-gray-900 text-center mb-3">
-              Personalized Messaging
+              AI-Generated Messaging
             </h3>
             <p className="text-gray-600 text-center">
-              Craft personalized outreach campaigns that resonate with your users and drive meaningful conversations.
+              AI crafts personalized outreach campaigns that resonate with your users and drive meaningful conversations at scale.
             </p>
           </div>
         </div>
@@ -130,25 +130,25 @@ export default function HomePage() {
             <div className="space-y-12">
               {/* Solution 1 */}
               <div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-4">Abandoned Form Recovery</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-4">AI Calling</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Automatically follow up with users who started but didn't complete your forms. Send personalized SMS reminders that bring them back to finish their application.
+                  AI-powered voice agents automatically call leads and customers with natural, human-like conversations. Follow up on inquiries, qualify leads, and schedule appointments 24/7 without human intervention.
                 </p>
               </div>
 
               {/* Solution 2 */}
               <div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-4">Document Completion Reminders</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-4">Form Recovery</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Send timely reminders for pending document signatures and submissions. Increase completion rates by reaching users directly on their mobile devices.
+                  Automatically recover abandoned forms with intelligent AI follow-up. Our system detects incomplete submissions and reaches out via calls or messages to bring customers back to complete their applications.
                 </p>
               </div>
 
               {/* Solution 3 */}
               <div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-4">Engagement Campaigns</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-4">AI Support</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Create automated SMS campaigns to re-engage inactive users, share updates, and drive them back into your conversion funnel with targeted messaging.
+                  Provide instant, intelligent customer support with AI agents that handle inquiries, answer questions, and resolve issues through natural conversations. Scale your support without adding headcount.
                 </p>
               </div>
             </div>
@@ -157,7 +157,7 @@ export default function HomePage() {
             <div className="rounded-lg overflow-hidden sticky top-8 flex items-start justify-center">
               <Image 
                 src="/Lendplan.png" 
-                alt="LendPlan Solutions" 
+                alt="Jobix Solutions" 
                 width={350} 
                 height={350}
                 className="w-auto h-auto object-contain max-w-full"
@@ -175,7 +175,7 @@ export default function HomePage() {
               Ready to Boost Your Conversions?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Join businesses that trust LendPlan to automate customer outreach and drive meaningful conversations.
+              Join businesses that trust Jobix to leverage AI for automated follow-up and drive meaningful conversations.
             </p>
             <Link
               href="/signup"
@@ -192,9 +192,9 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">LendPlan</h3>
+              <h3 className="text-xl font-bold mb-4">Jobix</h3>
               <p className="text-gray-400">
-                Automated customer outreach that drives results.
+                AI-powered follow-up that drives results.
               </p>
             </div>
             <div>
@@ -230,17 +230,17 @@ export default function HomePage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@trylendplan.com
+                support@tryjobix.com
               </p>
               <p className="text-gray-400 mt-4">
-                6 Themistokli Dervi<br />
-                Flat/Office 4D<br />
-                1066 Nicosia, Cyprus
+                6 Eu Tong Sen Street<br />
+                #10-15<br />
+                Singapore 059817
               </p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 LendPlan. All rights reserved.</p>
+            <p>&copy; 2026 Jobix. All rights reserved.</p>
           </div>
         </div>
       </footer>
