@@ -109,7 +109,7 @@ export default function HomePage() {
               AI-Generated Messaging
             </h3>
             <p className="text-gray-600 text-center">
-              AI crafts personalized outreach campaigns that resonate with your users and drive meaningful conversations at scale.
+              AI crafts personalized outreach campaigns that resonate with your users and drive meaningful interactions at scale.
             </p>
           </div>
         </div>
@@ -132,7 +132,7 @@ export default function HomePage() {
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">AI Calling</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  AI-powered voice agents automatically call customers with natural, human-like conversations. Follow up on inquiries, answer questions, and schedule appointments 24/7 without human intervention.
+                  AI-powered voice agents automatically call customers with natural, human-like interactions. Follow up on inquiries, answer questions, and schedule appointments 24/7 without human intervention.
                 </p>
               </div>
 
@@ -148,7 +148,7 @@ export default function HomePage() {
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">AI Support</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Provide instant, intelligent customer support with AI agents that handle inquiries, answer questions, and resolve issues through natural conversations. Scale your support without adding headcount.
+                  Provide instant, intelligent customer support with AI agents that handle inquiries, answer questions, and resolve issues through natural interactions. Scale your support without adding headcount.
                 </p>
               </div>
             </div>
@@ -175,7 +175,7 @@ export default function HomePage() {
               Ready to Boost Your Engagement?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Join businesses that trust Jobix to leverage AI for automated follow-up and drive meaningful conversations.
+              Join businesses that trust Jobix to leverage AI for automated follow-up and drive meaningful interactions.
             </p>
             <Link
               href="/signup"

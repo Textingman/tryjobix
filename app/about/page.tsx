@@ -43,7 +43,7 @@ export default function AboutPage() {
             About Jobix
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We're building the future of automated customer outreach, helping businesses re-engage users and drive meaningful conversations through SMS.
+            We're building the future of automated customer outreach, helping businesses re-engage users and drive meaningful interactions through SMS.
           </p>
         </div>
       </section>
@@ -92,7 +92,7 @@ export default function AboutPage() {
               Ready to Boost Your Engagement?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Join businesses that trust Jobix to automate customer outreach and drive meaningful conversations.
+              Join businesses that trust Jobix to automate customer outreach and drive meaningful interactions.
             </p>
             <Link
               href="/signup"
